@@ -10,7 +10,6 @@ const NewProfessional: React.FC = () => {
     async function handleSubmit(e:FormEvent<HTMLFormElement>){
         e.preventDefault();
         console.log();
-
     }
 
   return (
